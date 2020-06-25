@@ -2,7 +2,7 @@
 
 **Tipper** is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: **Pooja Yadav**
 
 Time spent: **1** hours spent in total
 
@@ -32,8 +32,6 @@ Here's a walkthrough of implemented user stories:
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
-
-Describe any challenges encountered while building the app.
 
 ## License
 
